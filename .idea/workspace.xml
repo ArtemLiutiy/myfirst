@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0422cc2-426a-451b-9903-d7c77bda5164" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myPAI/test_git.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/xml/dom.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/xml/dom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myPAI/test_git.php" beforeDir="false" afterPath="$PROJECT_DIR$/myPAI/test_git.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +55,34 @@
       <updated>1576398714871</updated>
       <workItem from="1576398716004" duration="112000" />
       <workItem from="1576398851624" duration="4214000" />
-      <workItem from="1576407377975" duration="604000" />
+      <workItem from="1576407377975" duration="922000" />
     </task>
+    <task id="LOCAL-00001" summary="комичу через storm">
+      <created>1576408044790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576408044790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="комичу через storm" />
+    <option name="LAST_COMMIT_MESSAGE" value="комичу через storm" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="34" key="CommitChangelistDialog2" timestamp="1576407977519">
+    <state x="218" y="34" key="CommitChangelistDialog2" timestamp="1576408043913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="218" y="34" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576407977519" />
+    <state x="218" y="34" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576408043913" />
+    <state x="428" y="137" key="RollbackChangesDialog" timestamp="1576408276775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="137" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576408276775" />
     <state x="57" y="163" key="SettingsEditor" timestamp="1576407733808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
